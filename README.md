@@ -15,9 +15,7 @@
 
 
 ## 📫 Let's Connect
-[![Email](https://img.shields.io/badge/Email-gakhanaljufaily%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gakhanaljufaily@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-![Phone](https://img.shields.io/badge/Phone-%2B968%2096743282-green?style=for-the-badge&logo=whatsapp&logoColor=white)  
 
 ---
 
