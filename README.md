@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Al-Harith Al-Jufaili  
+# I'm Al-Harith Al-Jufaili  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square)
 
