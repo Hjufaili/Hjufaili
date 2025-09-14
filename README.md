@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Al-Harith Al-Jufaili  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blueviolet&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?label=Follow&style=social)](https://github.com/YOUR-USERNAME)
 
 ---
 
