@@ -10,7 +10,7 @@
 ---
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alharith-aljufaili-9b6a4b181/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-‏Alharith_Aljufaili-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alharith-aljufaili-9b6a4b181/)  
 
 ---
 
