@@ -6,24 +6,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img 
-       src="https://img.shields.io/badge/GitHub-Profile%20Statistics-blue?style=for-the-badge&logo=github" 
-       alt="GitHub Badge" />
-</p>
-
-<!-- Overall Stats -->
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Hjufaili&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" 
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hjufaili&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" 
        width="55%" 
        alt="GitHub Stats" />
 </p>
 
-
-<!-- Top Languages -->
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hjufaili&layout=compact&theme=radical&hide_border=true" 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hjufaili&theme=radical&hide_border=true" 
+       width="55%" 
+       alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hjufaili&layout=compact&theme=radical&hide_border=true" 
        width="40%" 
        alt="Top Languages" />
 </p>
