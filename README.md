@@ -19,13 +19,6 @@
        alt="GitHub Stats" />
 </p>
 
-<!-- Streak Stats -->
-<p align="center">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Hjufaili&theme=radical&hide_border=true" 
-       width="55%" 
-       alt="GitHub Streak" />
-</p>
 
 <!-- Top Languages -->
 <p align="center">
