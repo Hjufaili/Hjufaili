@@ -5,8 +5,23 @@
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Hjufaili&show_icons=true&rank_icon=github&theme=dark&border_radius=12" alt="GitHub stats" />
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Hjufaili&show_icons=true&theme=transparent&hide_border=true" 
+       alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Hjufaili&theme=transparent&hide_border=true" 
+       alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hjufaili&layout=compact&theme=transparent&hide_border=true" 
+       alt="Top Languages" />
+</p>v
 ---
 
 ## 📫 Let's Connect
